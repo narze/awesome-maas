@@ -13,5 +13,6 @@ The repo must have `README.md` with a list of the data. Optionally, having the w
 - https://github.com/santhitak/HelloAny
 - https://github.com/narze/torpleng (https://narze.github.io/torpleng) - Longest Thai music chaining of the history
 - https://github.com/pp3times/Do-you-know
+- https://github.com/Tin-Tinnaphat/MukPakPak - Encyclopedia of Thailand most boring jokes
 
 <!-- Add the repos above this line -->
