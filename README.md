@@ -9,9 +9,9 @@ The repo must have `README.md` with a list of the data. Optionally, having the w
 ## Entries
 
 - https://github.com/narze/awesome-maas - This repo itself!
-- https://github.com/narze/awesome-salim-quotes - Curate Salim quotes
+- https://github.com/narze/awesome-salim-quotes (https://watasalim.vercel.app) - Curate Salim quotes
 - https://github.com/santhitak/HelloAny
-- https://github.com/narze/torpleng
+- https://github.com/narze/torpleng (https://narze.github.io/torpleng) - Longest Thai music chaining of the history
 - https://github.com/pp3times/Do-you-know
 
 <!-- Add the repos above this line -->
