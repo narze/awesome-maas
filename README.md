@@ -10,7 +10,7 @@ The repo must have `README.md` with a list of the data. Optionally, having the w
 
 - https://github.com/narze/awesome-maas - This repo itself!
 - https://github.com/narze/awesome-salim-quotes (https://watasalim.vercel.app) - Curate Salim quotes
-- https://github.com/santhitak/HelloAny
+- https://github.com/santhitak/HelloAny - Let's say hello to forking anything on earth
 - https://github.com/narze/torpleng (https://narze.github.io/torpleng) - Longest Thai music chaining of the history
 - https://github.com/pp3times/Do-you-know
 - https://github.com/Tin-Tinnaphat/MukPakPak - Encyclopedia of Thailand most boring jokes
